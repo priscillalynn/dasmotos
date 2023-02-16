@@ -21,3 +21,24 @@ header {
     font-weight: bold;
     color: white;
 }
+
+.frames-title {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint-title {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+font-weight: bold; 
+color: blue;
+}
